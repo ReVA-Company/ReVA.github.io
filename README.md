@@ -62,5 +62,5 @@ ReVAアプリ開発（以下，「当社」といいます。）は、当社が�
 
 【事業者名】ReVAアプリ開発  
 【所在地】神奈川県川崎市  
-【代表者】陽道 琉（はるみち りゅう）※開発名義  
-【メール】support@reva-app.com
+【代表者】ReVAアプリ開発 代表者 
+【メール】reva.customercontact@gmail.com
